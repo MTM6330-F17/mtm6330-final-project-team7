@@ -8638,7 +8638,10 @@ a.text-dark:hover {
 }
 
 .text-muted {
-    color: #868e96!important
+    color: #868e96!important;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
 }
 
 .text-hide {
